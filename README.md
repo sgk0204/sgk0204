@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working as a **Software Engineer at Collabrix**
+- 💼 Currently working as a **Software Engineer**
 - 🎓 B.Tech in **Computer Science and Engineering** from NIT Andhra Pradesh
 - 🏗️ I have experience building secure RESTful APIs, modern web apps, and cross-platform mobile apps.
 - 🌱 I’m currently learning more about **Advanced System Design and Agentic AI**
