@@ -16,7 +16,7 @@
 - 🏗️ I have experience building secure RESTful APIs, modern web apps, and cross-platform mobile apps.
 - 🌱 I’m currently learning more about **Advanced System Design and Agentic AI**
 - 📫 How to reach me: **gopalakrishnasista@gmail.com**
-- 📄 Connect with me on [LinkedIn](https://linkedin.com/in/sista-gopala-krishna)
+- 📄 Connect with me on [LinkedIn](https://www.linkedin.com/in/sista-gopala-krishna-243019237/)
 
 ---
 
