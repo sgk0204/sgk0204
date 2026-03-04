@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sgk0204&show_icons=true&theme=radical" alt="sgk0204 GitHub Stats" />
+  <h1>sgk0204 GitHub Stats</h1>
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgk0204&theme=radical" alt="sgk0204 GitHub Streak" />
 </div>
