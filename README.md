@@ -48,15 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <h3>sgk0204 GitHub Stats</h3>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sgk0204&theme=radical" alt="sgk0204 GitHub Streak" />
-</div>
-
----
 
 <p align="center">
   <i>Let's connect and build something awesome together!</i>
