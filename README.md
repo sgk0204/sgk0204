@@ -2,11 +2,11 @@
 
 ```
 ╔═══════════════════════════════════════════════════════╗
-║         SISTA GOPALA KRISHNA  ·  SOFTWARE ENGINEER    ║
+║                  SISTA GOPALA KRISHNA                 ║
 ╚═══════════════════════════════════════════════════════╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%8C%90;Mobile+App+Architect+%F0%9F%93%B1;Agentic+AI+Explorer+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Senior+Analyst+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%8C%90;Data+Science+and+Agentic+AI+Explorer+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/sista-gopala-krishna-243019237">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,15 +26,14 @@
 
 ```yaml
 name        : Sista Gopala Krishna
-role        : Software Engineer
-education   : B.Tech CSE · NIT Andhra Pradesh
-location    : India
-focus       : Backend Systems · Web · Mobile · Agentic AI
+role        : Senior Analyst, Synchrony
+education   : B.Tech CSE · NIT Andhra Pradesh · India
+focus       : Data Science · Full-Stack Development · Agentic AI
 email       : gopalakrishnasista@gmail.com
 status      : Open to exciting opportunities 🚀
 ```
 
-> *I build things that scale — secure REST APIs, modern web apps, and cross-platform mobile experiences. Currently diving deep into Advanced System Design and Agentic AI.*
+> *Currently diving deep into Data Science, Ai/ml Algorithms and Agentic AI.*
 
 ---
 
