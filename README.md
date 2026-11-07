@@ -79,16 +79,6 @@ status      : Open to exciting opportunities 🚀
 
 ---
 
-## `$ cat ./stats.json`
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sgk0204&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## `$ connect --handshake`
 
 <div align="center">
